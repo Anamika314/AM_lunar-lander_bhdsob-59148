@@ -1,1 +1,5 @@
-# AM_lunar-lander_bhdsob-59148
+# Coursera Project
+
+Course: Unsupervised Learning, Recommenders, Reinforcement Learning
+
+Week 3 lab assigment
